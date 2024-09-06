@@ -1,1 +1,1 @@
-Proyecto de Blog desarrollado en Laravel 8. 
+Proyecto de Blog desarrollado en Laravel 9. 
